@@ -1,0 +1,22 @@
+.title{
+  text-align: center;
+  margin: 30px;
+}
+
+.phone{
+  margin: 10px;
+}
+
+.search{
+  margin: 10px;
+}
+
+.input{
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
+
+.button{
+  margin-top: 5px;
+  margin-bottom: 15px;
+}
